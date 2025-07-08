@@ -1,0 +1,25 @@
+streamlit==1.31.0
+qdrant-client==1.7.3
+plotly==5.18.0
+pandas==2.2.0
+python-dotenv==1.0.1
+
+# Document processing
+pypdf==4.0.1
+python-docx==1.1.0
+docx2txt==0.8
+
+# LangChain components (minimal)
+langchain==0.1.6
+langchain-community==0.0.20
+langchain-groq==0.0.1
+
+# Embeddings
+sentence-transformers==2.3.1
+
+# Windows-specific
+pywin32==306
+
+# Optional: If you still get errors, try these specific versions
+# tiktoken==0.5.2
+# openai==1.12.0
