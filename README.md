@@ -108,7 +108,9 @@ ollama pull <model-name>
 - Ollama for local LLM inference
 - No API keys required - 100% local
 - Support for multiple models
-- Context-aware responses with source attribution
+- Context-aware responses with source 
+
+![alt text](images/image.png)
 
 ## 📁 Project Structure
 
